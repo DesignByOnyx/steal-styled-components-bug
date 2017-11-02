@@ -20,5 +20,10 @@
     "react-dom": "^16.0.0",
     "serve-static": "^1.13.1",
     "styled-components": "^2.2.3"
+  },
+  "steal": {
+    "configDependencies": [
+      "./config"
+    ]
   }
 }
